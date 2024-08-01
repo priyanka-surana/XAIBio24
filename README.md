@@ -3,16 +3,14 @@ Exploring explainable AI (XAI) for genomic data analysis.
 
 ## What is Explainable AI (XAI)?
 
-Explainable AI (XAI) is a set of methodologies, standards and techniques use
+Explainable AI (XAI) is a set of methodologies, standards and techniques used
 to help humans understand machine learning models' predictions.
 
 Comparison with interpretability:
 
-- Explainability refers to the level in which human can understand how the AI-based
-system came up with a result.
+- Explainability refers to the level in which human can understand how the AI-based system came up with a result.
 
-- Interpretability refers to level of understanding how the underlying (AI) technology 
-works.
+- Interpretability refers to level of understanding how the underlying (AI) technology works.
 
 Often in researching or studying ML, we sometimes come across the term "black box",
 indicating that we do not understand what goes inside of a machine learning model.
